@@ -24,6 +24,3 @@ A trabalhar na minha PAP...
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nll3r&layout=compact&theme=radical)
 
-## 🌐 Onde Me Encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/rafa-semedo-b2540933b/)
