@@ -3,7 +3,7 @@
 
 A trabalhar na minha PAP...
 
-## 🛠️ Minhas Habilidades
+## 🛠️ Minhas Habilidades e Interesses
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Linux](https://skillicons.dev/icons?i=linux)
