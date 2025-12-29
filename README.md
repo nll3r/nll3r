@@ -6,9 +6,6 @@ nll3r@github:~$ ./welcome.sh
 ```
 nll3r@github
 ```
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nll3r&show_icons=true&theme=radical)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nll3r&layout=compact&theme=radical)
 
 
 
